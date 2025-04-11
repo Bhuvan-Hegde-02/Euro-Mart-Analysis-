@@ -16,11 +16,6 @@ Key DAX measures used:
   Total Sales = SUM(Sales[Amount])
   YOY Growth = [This Year Sales] - [Last Year Sales]
 
-📌 Filters and Slicers
-Time Period: Year, Quarter, Month
-Region/Country: [list if specific]
-Category/Product/Service: [as applicable]
-
 🧭 Navigation
 The report is divided into the following sections/tabs:
 Overview
